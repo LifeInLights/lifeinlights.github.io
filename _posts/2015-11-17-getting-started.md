@@ -13,7 +13,7 @@ image:
   feature: "life-in-lights-color.png"
 comments: false
 mathjax: null
-featured: true
+#featured: true
 published: true
 ---
 
