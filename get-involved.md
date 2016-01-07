@@ -33,6 +33,8 @@ The Life In Lights project wants to help downtown business owners and property o
 [Click here to tell us about a location!](http://goo.gl/forms/Xyl6UHaQD5)
 
 #Get the word out
-Let your friends know about the Life In Lights project. Share us on Facebook, Instagram, Twitter.
+Let your friends know about the Life In Lights project. Share us on Facebook, Instagram or Twitter. #lifeinlights
 
 There really is something for everyone.
+
+Feel free to contact us directly at [lifeinlightswin@gmail.com](mailto:lifeinlightswin@gmail.com)

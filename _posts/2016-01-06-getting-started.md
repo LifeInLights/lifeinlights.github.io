@@ -26,4 +26,4 @@ The Life In Lights project will transform vacant downtown storefronts into light
 
 Additionally, the Life In Lights provides workshops where participants will learn to create digital art along with computer programming skills. Workshops are targeted at beginners and will teach participants at any level what's needed to create beautiful pieces of digital art. 
 
-You are invited to participate. See the [Get Involved](/get-involved) page or write to us at [lifeinlightswin@gmail.com](mailto:livelifeinlights@gmail.com)
+You are invited to participate. See the [Get Involved](/get-involved) page or write to us at [lifeinlightswin@gmail.com](mailto:lifeinlightswin@gmail.com)
