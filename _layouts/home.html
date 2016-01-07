@@ -95,18 +95,37 @@
     {% endif %}
 </header>
 
-
-
 <div id="main" class="content" role="main" itemprop="mainContentOfPage">
-    <div class="container">
-        <div class="row">
-            <div class="page-body" itemprop="description">
-            {{ content }}
-            </div>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-md-offset-3">
+        <a class="brand center-block" href="/workshops/index.html" role="banner" itemprop="url">
+          <img itemprop="logo" src="{{ site.url }}/images/logo_icon_lightning_small_light.png" alt="Get Involved Logo" />
+          <h2 class="blog-description">
+            &nbsp;&nbsp;&nbsp;Workshops
+          </h2>
+        </a>
+      </div>
+      <div class="col-md-2">
+        <a class="brand center-block" href="/get-involved/index.html" role="banner" itemprop="url">
+          <img itemprop="logo" src="{{ site.url }}/images/logo_icon_gear_small_light.png" alt="Get Involved Logo" />
+          <h2 class="blog-description">
+            &nbsp;&nbsp;Get Involved
+          </h2>
+        </a>
+      </div>
     </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="page-body" itemprop="description">
+        {{ content }}
+      </div>
+    </div>
+  </div>
 </div>
-    {% include footer.html %}
+
+  {% include footer.html %}
 
 {% include scripts.html %}
 </body>
