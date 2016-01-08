@@ -21,10 +21,12 @@ Community members - including artists, students, creatives, technologists and bu
 The majority of installations for Life In Lights involve projecting artwork through screens installed on the street-facing windows of shops in the downtown area during the afternoon and evening hours. Imagine a city-wide life-sized art gallery and video game. While one storefront installation is compelling, as more locations participate the entire experience becomes more captivating; closing the gaps and connecting downtown.
 
 #When this all happens
-Life In Lights will turn on the lights on February 11, coinciding with downtown Winchester's Wine About Winter event and will continue running for the months that follow.
+Life In Lights will turn on the lights on February 11, coinciding with downtown Winchester's Wine About Winter event and will continue running for a limited time to follow, during which time new exhibits will be developed and presented.
 
 #Sponsors
-Life In Lights is made possible by generous support from the Greater Clark Foundation and Leeds Center for the Arts.
+Life In Lights is made possible thanks to generous support from the Greater Clark Foundation and Leeds Center for the Arts.
+![Greater Clark Foundation Banner](/images/GCF-Banner.png)
+![Leeds Center for the Arts Logo](/images/leeds_working_logo.jpg)
 
 #Contact
 You are invited to participate. See the [Get Involved](/get-involved) page or write the Life In Lights organizers at [lifeinlightswin@gmail.com](mailto:lifeinlightswin@gmail.com)
