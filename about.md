@@ -24,7 +24,7 @@ The majority of installations for Life In Lights involve projecting artwork thro
 Life In Lights will turn on the lights on February 11, coinciding with downtown Winchester's Wine About Winter event and will continue running for a limited time to follow, during which time new exhibits will be developed and presented.
 
 #Sponsors
-Life In Lights is made possible thanks to generous support from the Greater Clark Foundation and Leeds Center for the Arts.
+Life In Lights is made possible thanks to generous support from the [Greater Clark Foundation](http://clarkambition.org/) and [Leeds Center for the Arts](http://leedscenter.org/).
 ![Greater Clark Foundation Banner](/images/GCF-Banner.png)
 ![Leeds Center for the Arts Logo](/images/leeds_working_logo.jpg)
 
