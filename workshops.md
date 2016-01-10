@@ -11,9 +11,7 @@ tags: [lifeinlights workshops learning education]
 *Workshops provide participants with an opportunity to learn how to create exciting and dynamic art.*
 
 #What you'll learn
-Learn to create art in a new and interesting way along with computer programming skills. Along the way, attendees learn the basics of computer programming and graphics.
-
-Students will learn how to create dynamic computer generated artwork. Along the way they will learn some basics of computer programming and how to apply mathematics in computer graphics.
+Students will create art in a new and interesting way by learning about dynamic computer generated artwork.Along the way they will learn some basics of computer programming and how to apply mathematics in computer graphics.
 
 #Share what you've learned
 With just a little bit of instruction and setup, students who bring their own computers will be able to leave the workshops prepared to create more artwork on their own after the workshop.
@@ -32,6 +30,6 @@ In addition to our workshops, Leeds Theater will be hosting open-hours sessions 
 
 Open hours are Tuesday evenings from 6:00-9:00 at Leeds Center for the Arts (37 North Main St in downtown Winchester).
 
-Feel free to drop in.
+Open hours are casual. Feel free to drop in anytime on a Tuesday evening to play and learn.
 
 If you have any questions, feel free to contact us directly at [lifeinlightswin@gmail.com](mailto:lifeinlightswin@gmail.com)
