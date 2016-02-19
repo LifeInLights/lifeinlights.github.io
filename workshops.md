@@ -21,7 +21,9 @@ Once you're up and running, you'll be able to create just about anything you can
 #Attend a workshop
 Workshops are open to all skill levels from beginners to experienced programmers and artists and will teach participants what's needed to create beautiful pieces of digital art.
 
-The next workshop will be held February 20. [Details here!](/create-by-the-numbers)
+The next workshop will be held March 12. [Details here!](/create-by-the-numbers)
+
+*Please note that the workshop originally scheduled for February 20 has been cancelled*
 
 [Click here to attend a workshop!](http://goo.gl/forms/UYuo9HsJ8U)
 

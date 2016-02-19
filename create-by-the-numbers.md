@@ -11,7 +11,8 @@ tags: [lifeinlights workshops learning education]
 A Free Introductory Computer Programming and Graphical Art workshop
 
 # When
-The next workshop will be held on Saturday February 20 from 9:30am - 12noon
+The next workshop will be held on Saturday March 12 from 9:30am - 12noon
+*Please note that the workshop originally scheduled for February 20 has been cancelled*
 
 # Where
 Leeds Center for the Arts, 37 North Main St Winchester
