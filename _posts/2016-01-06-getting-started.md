@@ -10,7 +10,7 @@ tags:
   - art
   - education
 image: 
-  feature: "life-in-lights-color.png"
+  feature: "lifeinlights-logo.png"
 comments: false
 mathjax: null
 #featured: true
